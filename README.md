@@ -1,0 +1,2 @@
+# sqlOdevDort
+www.patika.dev
